@@ -1,0 +1,15 @@
+================ CV de ertyu ddgfg ================
+
+[INFORMATIONS PERSONNELLES]
+Nom: ertyu ddgfg
+Email: mohammed@alachhab.com
+Filière: Génie Informatique
+Année: 1ere
+Âge: 23
+
+[EXPÉRIENCES]
+- Poste: Développeur Web Junior | Entreprise: StartupTech Rabat
+
+[FORMATIONS]
+- Diplôme: ghjk | École: uio
+

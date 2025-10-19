@@ -1,0 +1,38 @@
+================ CV de Jaakike Amine ================
+
+[INFORMATIONS PERSONNELLES]
+Nom: Jaakike Amine
+Email: amine.jaakike@gmail.com
+Filière: Génie Civil
+Année: 3eme
+Âge: 25
+
+[EXPÉRIENCES]
+- Poste: Ingénieur civil stagiaire | Entreprise: TGCC – Casablanca
+- Poste: Assistant conducteur de travaux | Entreprise: SGTM – Rabat
+
+[FORMATIONS]
+- Diplôme: Cycle Ingénieur en Génie Civil | École: ENSA Tétouan
+- Diplôme: Baccalauréat Sciences Mathématiques A | École: Lycée Abi Bakr Errazi – Casablanca
+
+[COMPÉTENCES]
+- Compétence: Conception et dimensionnement des structures | Niveau: Avancé
+- Compétence: Gestion de projet de construction | Niveau: Expert
+
+[LANGUES]
+- Langue: Français | Niveau: Courant
+- Langue: Anglais | Niveau: B1
+- Langue: Arabe | Niveau: Maternelle
+
+[STAGES]
+- Titre: tage en bureau d’études | Entreprise: Novec Ingénierie – Rabat
+- Titre: Stage de terrain – Chantier routier | Entreprise: Autoroutes du Maroc – Tétouan
+
+[CERTIFICATIONS]
+- Certification: AutoCAD 2D/3D – Conception assistée par ordinateur
+- Certification: Calcul de structures en béton armé
+
+[CENTRES D'INTÉRÊT]
+- Intérêt: Architecture et design urbain
+- Intérêt: Développement durable et construction écologique
+

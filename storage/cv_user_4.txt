@@ -1,0 +1,37 @@
+================ CV de Mohamed Amine Ait Jaakike ================
+
+[INFORMATIONS PERSONNELLES]
+Nom: Mohamed Amine Ait Jaakike
+Email: mohamedamineaitjaakike@gmail.com
+Filière: Génie Informatique
+Année: 2eme
+Âge: 23
+
+[EXPÉRIENCES]
+- Poste: Développeur Web Junior | Entreprise: StartupTech Rabat
+- Poste: Stagiaire Sécurité Informatique | Entreprise: Maroc IT Secure
+
+[FORMATIONS]
+- Diplôme: Cycle Ingénieur en Génie Informatique | École: ENSA Tétouan
+- Diplôme: Baccalauréat Sciences Mathématiques B | École: Lycée Abi Baker Errazi – Casablanca
+
+[COMPÉTENCES]
+- Compétence: PHP & Laravel | Niveau: Avancé
+- Compétence: Docker & DevOps | Niveau: Intermédiaire
+
+[LANGUES]
+- Langue: Français | Niveau: Courant
+- Langue: Anglais | Niveau: B2
+
+[STAGES]
+- Titre: Stage d’initiation en Réseau | Entreprise: INPT Rabat
+- Titre: Stage en Développement Web | Entreprise: ENSA Tétouan
+
+[CERTIFICATIONS]
+- Certification: Introduction to Cybersecurity
+- Certification: Développement Web avec PHP & MySQL
+
+[CENTRES D'INTÉRÊT]
+- Intérêt: Cybersécurité et hacking éthique
+- Intérêt: Développement d’applications web & IA
+

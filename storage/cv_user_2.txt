@@ -1,0 +1,31 @@
+================ CV de mohamed  ================
+
+[INFORMATIONS PERSONNELLES]
+Nom: mohamed 
+Email: hidaya.zayd@etu.uae.ac.ma
+Filière: Génie Informatique
+Année: 2eme
+Âge: 32
+
+[EXPÉRIENCES]
+- Poste: tesrt | Entreprise: hjf
+
+[FORMATIONS]
+- Diplôme: htdftjtg | École: htjfdyu
+
+[COMPÉTENCES]
+- Compétence: php | Niveau: Débutant
+
+[LANGUES]
+- Langue: anglais | Niveau: b2
+
+[STAGES]
+- Titre: fhhf | Entreprise: ffngdgvhd
+
+[CERTIFICATIONS]
+- Certification: jgdyg
+
+[CENTRES D'INTÉRÊT]
+- Intérêt: lecture
+- Intérêt: sport
+
